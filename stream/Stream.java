@@ -3,6 +3,9 @@ package stream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import modifiers.AccessModifiers;
+
 import java.util.Collection;
 
 public class Stream {
